@@ -18,11 +18,18 @@ To get started with the Todo List app, follow these steps:
 
 2. **Navigate to the project directory:**
    ```sh
-   cd todo-list-app
+   cd Todo-List
 
 3. **Open the index.html file in your preferred web browser:**
-   ```sh
-   open index.html
+   - **On MacOS:**
+      ```sh
+      open index.html
+   - **On Windows:**
+      ```sh
+      start index.html
+   - **On Linux:**
+      ```sh
+      xdg-open index.html
 
 ## 📚 Usage
 
