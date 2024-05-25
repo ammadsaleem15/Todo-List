@@ -32,6 +32,8 @@ To get started with the Todo List app, follow these steps:
       ```sh
       xdg-open index.html
 
+4. **Alternatively, you can access the live version here: [Ammad - Todo List App](https://todo-list-ammad.vercel.app/)**
+
 ## 📚 Usage
 
 - **➕ Add a Task:** First press the "Add" button then type your task in the input field and press the "Add" button to add it to the list.
