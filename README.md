@@ -21,6 +21,7 @@ To get started with the Todo List app, follow these steps:
    cd Todo-List
 
 3. **Open the index.html file in your preferred web browser:**
+   
    - **On MacOS:**
       ```sh
       open index.html
