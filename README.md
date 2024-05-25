@@ -1,6 +1,6 @@
 # 📋 Ammad - Todo List Web App
 
-Ammad - Todo List App is a cool and easy-to-use task organizer made with HTML, CSS, and JavaScript. It helps you sort out your daily tasks with a friendly design that works smoothly on any device. Whether you're on your computer or your phone, it looks great and works perfectly, making task management a breeze. You can check it out: <a href="https://todo-list-ammad.vercel.app/" target="_blank">Ammad - Todo List App</a>
+Ammad - Todo List App is a cool and easy-to-use task organizer made with HTML, CSS, and JavaScript. It helps you sort out your daily tasks with a friendly design that works smoothly on any device. Whether you're on your computer or your phone, it looks great and works perfectly, making task management a breeze. You can check it out: <a href="https://todo-list-ammad.vercel.app/" onclick="window.open(this.href, '_blank'); return false;">Ammad - Todo List App</a>.
 
 ## ✨ Features
 
