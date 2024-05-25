@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo list App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./img/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Todo List</h1>
+        <div class="search-add">
+            <div class="box">
+                <img src="./img/search.png" alt="">
+                <input type="text" class="searchInput" placeholder="Search your Task Here...">
+            </div>
+            <button onclick="addShow()" class="add-btn">Add</button>
+        </div>
+        <div class="list-box">
+            <h1>My Tasks</h1>
+            <p class="t-l"><span>!!!!</span> There is not Task Left... <span>!!!!</span></p>
+            <h6 onclick="addShow()">Create New Task</h6>
+        </div>
+
+        <div class="add-box">
+            <h1>Add a Task</h1>
+            <input type="text" placeholder="Type your Task Here...">
+            <p>Please Enter your Task</p>
+            <button>Add</button>
+        </div>
+    </div>
+    <div class="add-bg"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
