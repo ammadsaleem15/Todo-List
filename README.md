@@ -1,4 +1,4 @@
-## 📋 Ammad - Todo List Web App
+# 📋 Ammad - Todo List Web App
 
 Ammad's Todo List App is a sleek and intuitive task management application developed using HTML, CSS, and JavaScript. Designed to help users efficiently organize their daily tasks, the app features a user-friendly interface that ensures a seamless user experience across all devices. Fully responsive, it adapts flawlessly to various screen sizes, providing optimal usability on both desktop and mobile platforms.
 
