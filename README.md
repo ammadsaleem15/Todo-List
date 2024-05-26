@@ -1,4 +1,4 @@
-# 📋 Ammad - Todo List Web App
+## 📋 Ammad - Todo List Web App
 
 Ammad - Todo List App is a cool and easy-to-use task organizer made with HTML, CSS, and JavaScript. It helps you sort out your daily tasks with a friendly design that works smoothly on any device. Whether you're on your computer or your phone, it looks great and works perfectly, making task management a breeze.
 
@@ -15,24 +15,33 @@ You can check it out: <a href="https://todo-list-ammad.vercel.app/">Ammad - Todo
 To get started with the Todo List app, follow these steps:
 
 1. **Clone the repository:**
+
    ```sh
-   git clone https://github.com/ammadsaleem15/Todo-List.git
+   git clone https://github.com/ammadsaleem18/Todo-List.git
+
+   ```
 
 2. **Navigate to the project directory:**
+
    ```sh
    cd Todo-List
 
+   ```
+
 3. **Open the index.html file in your preferred web browser:**
-   
+
    - **On MacOS:**
-      ```sh
-      open index.html
+     ```sh
+     open index.html
+     ```
    - **On Windows:**
-      ```sh
-      start index.html
+     ```sh
+     start index.html
+     ```
    - **On Linux:**
-      ```sh
-      xdg-open index.html
+     ```sh
+     xdg-open index.html
+     ```
 
 ## 📚 Usage
 
