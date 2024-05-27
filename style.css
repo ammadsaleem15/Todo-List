@@ -283,7 +283,7 @@ h1 {
     width: 90%;
     height: 40px;
     color: #202020;
-    background-color: #626ED9;
+    background-color: #4a51c4;
     border: 2px solid transparent;
     border-radius: 5px;
     font-family: 'medium';
@@ -295,9 +295,9 @@ h1 {
 }
 
 .add-box button:hover {
-    color: #626ED9;
+    color: #4a51c4;
     background-color: transparent;
-    border: 2px solid #626ED9;
+    border: 2px solid #4a51c4;
 }
 
 .add-btn {
@@ -321,8 +321,8 @@ h1 {
 
 .add-btn:hover {
     background-color: transparent;
-    border: 2px solid #626ED9;
-    color: #626ED9;
+    border: 2px solid #4a51c4;
+    color: #4a51c4;
 }
 
 @media (max-width: 740px) {
