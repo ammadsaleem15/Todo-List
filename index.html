@@ -10,28 +10,28 @@
 </head>
 
 <body>
-
-    <div class="container">
-        <h1>Todo List</h1>
-        <div class="search-add">
-            <div class="box">
-                <img src="./img/search.png" alt="">
-                <input type="text" class="searchInput" placeholder="Search your Task Here...">
+    <div class="main">
+        <div class="container">
+            <h1>Todo List</h1>
+            <div class="search-add">
+                <div class="box">
+                    <img src="./img/search.png" alt="">
+                    <input type="text" class="searchInput" placeholder="Search your Task Here...">
+                </div>
             </div>
-            <button onclick="addShow()" class="add-btn">Add</button>
-        </div>
-        <div class="list-box">
-            <h1>My Tasks</h1>
-            <p class="t-l"><span>!!!!</span> There is not Task Left... <span>!!!!</span></p>
-            <h6 onclick="addShow()">Create New Task</h6>
-        </div>
+            <div class="list-box">
+                <h1>My Tasks</h1>
+                <p class="t-l"><span>!!!!</span> There is not Task Left... <span>!!!!</span></p>
+            </div>
 
-        <div class="add-box">
-            <h1>Add a Task</h1>
-            <input type="text" placeholder="Type your Task Here...">
-            <p>Please Enter your Task</p>
-            <button>Add</button>
+            <div class="add-box">
+                <h1>Add a Task</h1>
+                <input type="text" placeholder="Type your Task Here...">
+                <p>Please Enter your Task</p>
+                <button>Add</button>
+            </div>
         </div>
+        <button onclick="addShow()" class="add-btn">Create a new Task </button>
     </div>
     <div class="add-bg"></div>
 

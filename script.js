@@ -22,7 +22,6 @@ addBtn.addEventListener('click', () => {
         addinput.style.border = '1px solid #C64444';
     } else {
         listBox.querySelector('.t-l').style.display = 'none';
-        listBox.querySelector('h6').style.display = 'none';
         let inputValue = addinput.value;
         setTimeout(() => {
             addBox.style.opacity = '0';
